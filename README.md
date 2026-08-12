@@ -1,173 +1,89 @@
 <div align="center">
 
-# Hi 👋, I'm Dinakarasu S
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Dinakarasu%20S&fontSize=48&fontColor=00F5FF&animation=fadeIn&fontAlignY=38&desc=Java%20Full-Stack%20Developer&descAlignY=58&descSize=20&descColor=A78BFA" width="100%"/>
 
-### 🚀 Software Developer | Java Full Stack Developer | Spring Boot | MySQL
+<a href="https://github.com/Dinakarasu">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Building+full-stack+web+apps;Java+%7C+JSP+%7C+Servlets+%7C+MySQL;Currently+leveling+up+in+Spring+Boot+%26+React;Chennai%2C+India" alt="Typing SVG" />
+</a>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Building+Scalable+Java+Applications;Spring+Boot+Developer;Backend+Developer;Always+Learning+New+Technologies" />
+<br/>
 
-<p>
-<img src="https://komarev.com/ghpvc/?username=Dinakarasu&label=Profile%20Views&color=0e75b6&style=flat"/>
-<img src="https://img.shields.io/github/followers/Dinakarasu?label=Followers&style=social"/>
-<img src="https://img.shields.io/github/stars/Dinakarasu?label=Stars&style=social"/>
-</p>
+<a href="https://www.linkedin.com/in/dinakarasu-s">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-00F5FF?style=for-the-badge&logo=linkedin&logoColor=0f0c29&labelColor=0f0c29" alt="LinkedIn"/>
+</a>
+<a href="https://github.com/Dinakarasu">
+  <img src="https://img.shields.io/github/followers/Dinakarasu?label=Followers&style=for-the-badge&logo=github&color=A78BFA&labelColor=0f0c29" alt="GitHub followers"/>
+</a>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,100:302b63&height=3&width=100%"/>
 
 </div>
 
----
-
-# 👨‍💻 About Me
-
-- 💻 Java Full Stack Developer
-- 🌱 Learning **Spring Boot, REST APIs, React**
-- 🚀 Passionate about Backend Development
-- 🎯 Building scalable web applications
-- 📍 Chennai, Tamil Nadu, India
-
----
-
-# 🌐 Connect With Me
-
-<p align="left">
-
-<a href="https://www.linkedin.com/in/dinakarasu-s">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://github.com/Dinakarasu">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://YOUR-PORTFOLIO-LINK">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
-</a>
-
-<a href="mailto:YOUR-EMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
-
-</p>
-
----
-
-# 🛠 Tech Stack
-
-### Languages
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=java,html,css,js"/>
-
-</p>
-
-### Frameworks
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=spring"/>
-
-</p>
-
-### Database
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=mysql"/>
-
-</p>
-
-### Tools
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse"/>
-
-</p>
-
----
-
-# 🚀 Featured Projects
-
-## 🛒 E-Commerce Website
-
-Java | JSP | Servlets | MySQL
-
-✔ Login & Registration
-
-✔ Shopping Cart
-
-✔ Product Management
-
-✔ Admin Dashboard
-
-🔗 Repository
-
-https://github.com/Dinakarasu/E_commerce_website
-
----
-
-## 💼 Portfolio Website
-
-Responsive Personal Portfolio
-
-🔗 Repository
-
-https://github.com/Dinakarasu/Portfolio
-
----
-
-## 📚 Java Console Projects
-
-Collection of Java Programs & DSA
-
-🔗 Repository
-
-https://github.com/Dinakarasu/console-projects
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Dinakarasu&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dinakarasu&layout=compact&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dinakarasu&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Dinakarasu&theme=tokyonight&row=1&column=6"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dinakarasu&theme=tokyo-night"/>
-
-</p>
-
----
+## 🧬 Tech Stack
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+<img src="https://skillicons.dev/icons?i=java,js,html,css,mysql,git,github,vscode&theme=dark" alt="Tech stack"/>
 
-*"Code. Learn. Build. Repeat."*
+<br/><br/>
+
+`Currently learning` &nbsp;
+<img src="https://img.shields.io/badge/Spring_Boot-000000?style=flat-square&logo=springboot&logoColor=6DB33F"/>
+<img src="https://img.shields.io/badge/REST_API-000000?style=flat-square&logo=fastapi&logoColor=00F5FF"/>
+<img src="https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=61DAFB"/>
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:302b63,100:0f0c29&height=3&width=100%"/>
+
+## 🚀 Featured Project
+
+<div align="center">
+
+### [E-Commerce Website](https://github.com/Dinakarasu/E_commerce_website2)
+**Java · JSP · Servlets · MySQL**
+
+</div>
+
+A full-stack online shopping application covering the core flows of a real storefront:
+- 🔐 User registration, login, and session handling
+- 🛒 Shopping cart and checkout flow
+- 📦 Product catalog and management
+- 🛠️ Admin dashboard for managing inventory and orders
+
+> This is the actively maintained version — earlier iterations have been archived to keep the profile focused.
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,100:302b63&height=3&width=100%"/>
+
+## 📂 Other Projects
+
+| Project | Description |
+|---|---|
+| [Portfolio](https://github.com/Dinakarasu/Portfolio) | Responsive personal portfolio site (HTML/CSS/JS) |
+| [console-projects](https://github.com/Dinakarasu/console-projects) | Collection of Java programs and DSA practice |
+| [Patterns.java](https://github.com/Dinakarasu/Patterns.java) | Java pattern-printing exercises |
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:302b63,100:0f0c29&height=3&width=100%"/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Dinakarasu&show_icons=true&theme=radical&hide_border=true&bg_color=0f0c29&title_color=00F5FF&icon_color=A78BFA&text_color=ffffff" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dinakarasu&theme=radical&hide_border=true&background=0f0c29&ring=00F5FF&fire=A78BFA&currStreakLabel=00F5FF" height="165"/>
+
+</div>
+
+<div align="center">
+
+### 🐍 Contribution Snake
+
+<img src="https://raw.githubusercontent.com/Dinakarasu/Dinakarasu/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" width="100%"/>
+
+<sub>Renders after you add the workflow file below — see setup notes.</sub>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
+
+<p align="center"><i>Open to full-stack developer roles — let's connect on <a href="https://www.linkedin.com/in/dinakarasu-s">LinkedIn</a>.</i></p>
