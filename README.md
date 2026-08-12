@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Dinakarasu%20S&fontSize=48&fontColor=00F5FF&animation=fadeIn&fontAlignY=38&desc=Java%20Full-Stack%20Developer&descAlignY=58&descSize=20&descColor=A78BFA" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Dinakarasu%20S&fontSize=48&fontColor=00F5FF&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Engineer%20%7C%20Building%20Tomorrow%27s%20Web&descAlignY=58&descSize=20&descColor=A78BFA" width="100%"/>
 
 <a href="https://github.com/Dinakarasu">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Building+full-stack+web+apps;Java+%7C+JSP+%7C+Servlets+%7C+MySQL;Currently+leveling+up+in+Spring+Boot+%26+React;Chennai%2C+India" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Engineering+scalable+digital+experiences;Java+%7C+JSP+%7C+Servlets+%7C+MySQL;Next+up%3A+Spring+Boot+%26+React;Based+in+Chennai%2C+India" alt="Typing SVG" />
 </a>
 
 <br/>
